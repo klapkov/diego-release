@@ -4,8 +4,8 @@
 	branch = main
 [submodule "src/code.cloudfoundry.org/bbs"]
 	path = src/code.cloudfoundry.org/bbs
-	url = https://github.com/cloudfoundry/bbs
-	branch = main
+	url = https://github.com/klapkov/bbs
+	branch = dev
 [submodule "src/code.cloudfoundry.org/auctioneer"]
 	path = src/code.cloudfoundry.org/auctioneer
 	url = https://github.com/cloudfoundry/auctioneer
@@ -16,8 +16,8 @@
 	branch = main
 [submodule "src/code.cloudfoundry.org/executor"]
 	path = src/code.cloudfoundry.org/executor
-	url = https://github.com/cloudfoundry/executor
-	branch = main
+	url = https://github.com/klapkov/executor
+	branch = dev
 [submodule "src/code.cloudfoundry.org/healthcheck"]
 	path = src/code.cloudfoundry.org/healthcheck
 	url = https://github.com/cloudfoundry/healthcheck
@@ -32,8 +32,8 @@
 	branch = main
 [submodule "src/code.cloudfoundry.org/rep"]
 	path = src/code.cloudfoundry.org/rep
-	url = https://github.com/cloudfoundry/rep
-	branch = main
+	url = https://github.com/klapkov/rep
+	branch = dev
 [submodule "src/code.cloudfoundry.org/vizzini"]
 	path = src/code.cloudfoundry.org/vizzini
 	url = https://github.com/cloudfoundry/vizzini
