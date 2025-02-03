@@ -32,7 +32,7 @@
 	branch = main
 [submodule "src/code.cloudfoundry.org/rep"]
 	path = src/code.cloudfoundry.org/rep
-	url = https://github.com/cloudfoundry/rep
+	url = https://github.com/klapkov/rep
 	branch = RFC-0030-file-based-bindings
 [submodule "src/code.cloudfoundry.org/vizzini"]
 	path = src/code.cloudfoundry.org/vizzini
